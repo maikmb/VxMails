@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #faf7f7;
+}
+
+.bg-vx {
+  background-color: #c12c2c;
+}
+
+a.navbar-brand img {
+  height: 30px;
+}
